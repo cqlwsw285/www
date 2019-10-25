@@ -6,7 +6,6 @@
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
-<a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/rdngdq252/www/master/t/fq1.jpg"><br>
 <p><strong><a href="https://github.com/rdngdq252/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/rdngdq252/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 <p><strong>可向 fr45tr@gmail.com 索取推广网址，推荐用Chrome浏览器打开本平台</strong></p>
@@ -78,6 +77,7 @@
 <img src="https://raw.githubusercontent.com/rdngdq252/www/master/t/01.jpg">
 <h1><strong><a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">点击这里 退出中共</a></strong></h1><br>
 <br>
+<a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/rdngdq252/www/master/t/03.jpg"><br>
 <img src="https://raw.githubusercontent.com/rdngdq252/www/master/t/04.jpg"><br>
 <img src="https://raw.githubusercontent.com/rdngdq252/www/master/t/06.jpg"><br>
