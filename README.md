@@ -36,7 +36,8 @@
 <p><a target="_blank" href="https://github.com/pnejs292/ntdtv/blob/master/gb/prog1138_1.md?flntdtv#1">中国时局</a></p>
 <p><a target="_blank" href="https://github.com/pnejs292/djy/blob/master/gb/9p.md?flntdtv#1">九评共产党</a></p>
 <p><a target="_blank" href="https://github.com/pnejs292/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p>
-<p><a target="_blank" href="https://github.com/pnejs292/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p>
+<p><a target="_blank" href="https://github.com/pnejs292/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p
+
 <hr><h1>聚缘阁代理</h1>
 <p>网址测试正常，欢迎使用</p>
 <p><strong>轻松翻墙。从聚缘阁开始。。。</strong></p>
@@ -117,4 +118,5 @@
 <img src="https://raw.githubusercontent.com/pnejs292/www/master/t/42.jpg"><br>
 <img src="https://raw.githubusercontent.com/pnejs292/www/master/t/43.jpg"><br>
 <img src="https://raw.githubusercontent.com/pnejs292/www/master/t/44.jpg"><br>
-<p><p><strong>中共与道义良知为敌，在这场残酷打压中把法制以至道德伦理都推向崩溃的边缘，民心丧尽，天怒人怨！人们终于觉醒：要结束这近百年民族浩劫，重建社会道德，唤醒国人良知，全民退出中共是拯救中华民族的唯一出路。中共活摘器官曝光后震惊世界，大纪元社论《九评共产党》以无可辩驳的事实揭示中共这个"西来幽灵"的真面目，它孳生无数腐败，毁坏中华文明，毁灭国人道德，在一场场政治运动中吞噬数千万同胞生命，是真实的魔鬼组织，必遭天谴！中国人从小加入少先队时就在血旗下宣誓要把生命献给它，在此"天灭中共"之时，退党解除毒誓，不与恶魔为伍，既是道德良知的选择，也是自我保平安的天意安排。如今超过3亿人三退，全民<a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">退出中共</a>，解除自己身上的耻辱授记，永远结束共产党对中国人的迫害，自利利他，是所有善良人们的愿望！</strong></p></p>
+<p><p><strong>中共与道义良知为敌，在这场残酷打压中把法制以至道德伦理都推向崩溃的边缘，民心丧尽，天怒人怨！人们终于觉醒：要结束这近百年民族浩劫，重建社会道德，唤醒国人良知，全民退出中共是拯救中华民族的唯一出路。中共活摘器官曝光后震惊世界，大纪元社论《九评共产党》以无可辩驳的事实揭示中共这个"西来幽灵"的真面目，它孳生无数腐败，毁坏中华文明，毁灭国人道德，在一场场政治运动中吞噬数千万同胞生命，是真实的魔鬼组织，必遭天谴！中国人从小加入少先队时就在血旗下宣誓要把生命献给它，在此"天灭中共"之时，退党解除毒誓，不与恶魔为伍，既是道德良知的选择，也是自我保平安的天意安排。如今超过3亿人三退，全民<a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?ogQuit.aspx&from=852" rel="nofollow">退出中共</a>，解除自己身上的耻辱授记，永远结束共产党对中国人的迫害，自利利他，是所有善良人们的愿望！</strong></p></h3
+
