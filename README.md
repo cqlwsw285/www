@@ -13,13 +13,13 @@
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://gitlab.com/lpbpi2994/www/raw/master/t/sz.jpg"><br>
-<p><a href="https://github.com/oGate2/Up/raw/master/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
-<p><a href="https://github.com/wujieliulan/download/raw/master/um.apk?raw=true">无界浏览（手机版）</a></p>
-<p><a href="https://github.com/freegate-release/website/raw/gh-pages/files/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
-<p><a href="https://github.com/wujieliulan/download/raw/master/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/um.apk?raw=true">无界浏览（手机版）</a></p>
+<p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
 <p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>
-<p><a href="https://github.com/SzzdOgate/update/raw/master/extras/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
+<p><a href="https://gitlab.com/lpbpi2994/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 <p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
