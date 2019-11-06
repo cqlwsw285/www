@@ -25,9 +25,12 @@
 <p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
 <p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/n24hr.md?flntdtv#1">大纪元全球热点</a></p>
 <p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/news392.md?flntdtv#1">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/nscrw413.md?flntdtv#1">大纪元新闻排行</a></p>
 <p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog204_1.md?flntdtv#1">新唐人大陆新闻</a></p>
 <p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog202_1.md?flntdtv#1">新唐人国际新闻</a></p>
 <p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/editor-pickup_1.md?flntdtv#1">新唐人编辑推荐</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/headline-news_1.md?flntdtv#1">新唐人头条要闻</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?flntdtv&type=url14">世界各地新闻</a></p>
 <hr>
 <h1><p><strong>热门专题</strong></p></h1>
