@@ -1,13 +1,13 @@
 <a name="1" id="1" target="_blank"></a> <span id="1"></span>
 <a name="2" id="2" target="_blank"></a> <span id="2"></span>
-<a name="https://github.com/lpbpi2994/www/blob/master/README.md3" id="3" target="_blank"></a> <span id="3"></span>
+<a name="https://github.com/cqlwsw285/www/blob/master/README.md3" id="3" target="_blank"></a> <span id="3"></span>
 <a name="4" id="4" target="_blank"></a> <span id="4"></span>
 <a name="5" id="5" target="_blank"></a> <span id="5"></span>
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <img src="https://gitlab.com/szzdlab/www/raw/master/t/fq1.jpg"><br>
-<p><strong><a href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/lpbpi2994/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
+<p><strong><a href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/cqlwsw285/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 <p><strong>可向 fr45tr@gmail.com 索取推广网址，推荐用Chrome浏览器打开本平台</strong></p>
 
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
@@ -22,21 +22,24 @@
 <p><a href="https://gitlab.com/szzdlab/www/raw/master/szzd/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/n24hr.md?flntdtv#1">大纪元全球热点</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/news392.md?flntdtv#1">大纪元时事评论</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog204_1.md?flntdtv#1">新唐人大陆新闻</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog202_1.md?flntdtv#1">新唐人国际新闻</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/n24hr.md?flntdtv#1">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/news392.md?flntdtv#1">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/nscrw413.md?flntdtv#1">大纪元新闻排行</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog204_1.md?flntdtv#1">新唐人大陆新闻</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog202_1.md?flntdtv#1">新唐人国际新闻</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog207_1.md?flntdtv#1">新唐人时事评论</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/editor-pickup_1.md?flntdtv#1">新唐人编辑推荐</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/headline-news_1.md?flntdtv#1">新唐人头条要闻</a></p>
 <p><a target="_blank" href="https://github.com/gfw-breaker/banned-news/blob/master/README.md?flntdtv&type=url14">世界各地新闻</a></p>
 <hr>
 <h1><p><strong>热门专题</strong></p></h1>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog1138_1.md?flntdtv#1">中国时局</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/9p.md?flntdtv#1">九评共产党</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog1745_1.md?flntdtv#1">中美贸易战</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog205_1.md?flntdtv#1">香港反送中</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog1138_1.md?flntdtv#1">中国时局</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/9p.md?flntdtv#1">九评共产党</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog1647_1.md?flntdtv#1">共产党百年真相</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog447_1.md?flntdtv#1">聚焦“中共活摘器官”暴行</a></p
 
 <hr><h1>聚缘阁代理</h1>
 <p>网址测试正常，欢迎使用</p>
@@ -46,33 +49,33 @@
 <a id="user-content-聚缘阁禁闻导航" class="anchor" href="#%E8%81%9A%E7%BC%98%E9%98%81%E7%A6%81%E9%97%BB%E5%AF%BC%E8%88%AA" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://5a.weihu.gq/" rel="nofollow">聚缘阁禁闻导航</a><img src="https://camo.githubusercontent.com/9de5211082f16052f31c7c713a37b09ba9251625/68747470733a2f2f7475702e76726165742e63662f6a79672e676966" alt="" data-canonical-src="https://tup.vraet.cf/jyg.gif">
 </p>
 <p>
-<a id="user-content-动态网高速入口" class="anchor" href="#%E5%8A%A8%E6%80%81%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://ga.tcrc.ml/?id=2" rel="nofollow">动态网高速入口</a><img src="https://camo.githubusercontent.com/0044a7dbc0250711e901ce0312f1c245f8e2f033/68747470733a2f2f7475702e76726165742e63662f6a7967646c2e676966" alt="" data-canonical-src="https://tup.vraet.cf/jygdl.gif">
+<a id="user-content-动态网高速入口" class="anchor" href="#%E5%8A%A8%E6%80%81%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://66.jyg7.eu.org/?id=2" rel="nofollow">动态网高速入口</a><img src="https://camo.githubusercontent.com/0044a7dbc0250711e901ce0312f1c245f8e2f033/68747470733a2f2f7475702e76726165742e63662f6a7967646c2e676966" alt="" data-canonical-src="https://tup.vraet.cf/jygdl.gif">
 </p>
 <p>
-<a id="user-content-新唐人高速入口" class="anchor" href="#%E6%96%B0%E5%94%90%E4%BA%BA%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://ga.tcrc.ml/?id=5" rel="nofollow">新唐人高速入口</a>
+<a id="user-content-新唐人高速入口" class="anchor" href="#%E6%96%B0%E5%94%90%E4%BA%BA%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://66.jyg7.eu.org/?id=5" rel="nofollow">新唐人高速入口</a>
 </p>
 <p>
-<a id="user-content-大纪元高速入口" class="anchor" href="#%E5%A4%A7%E7%BA%AA%E5%85%83%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://ga.tcrc.ml/?id=7" rel="nofollow">大纪元高速入口</a>
+<a id="user-content-大纪元高速入口" class="anchor" href="#%E5%A4%A7%E7%BA%AA%E5%85%83%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://66.jyg7.eu.org/?id=7" rel="nofollow">大纪元高速入口</a>
 </p>
 <p>
-<a id="user-content-退党网高速入口" class="anchor" href="#%E9%80%80%E5%85%9A%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://ga.tcrc.ml/?id=8" rel="nofollow">退党网高速入口</a>
+<a id="user-content-退党网高速入口" class="anchor" href="#%E9%80%80%E5%85%9A%E7%BD%91%E9%AB%98%E9%80%9F%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://66.jyg7.eu.org/?id=8" rel="nofollow">退党网高速入口</a>
 </p>
 <p>
 <hr>
 <h1><p><strong>中国人权</strong></p></h1>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog1135_1.md?fldflpbpi2994#1">新唐人大陆人权</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/ncid278.md?fldflpbpi2994#1">大纪元中国人权</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/nf6123.md?fldflpbpi2994#1">起诉江泽民</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog1704_1.md?fldflpbpi2994#1">百年红祸</a></p>
-<p><a href="https://github.com/lpbpi2994/djy/blob/master/gb/mh/mhtg.md#1">明慧网通告</a></p>
-<p><a target="_blank" href="https://github.com/lpbpi2994/ntdtv/blob/master/gb/prog422209_1.md?fldflpbpi2994#1">追查中共人权迫害者</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog1135_1.md?fldfcqlwsw285#1">新唐人大陆人权</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/ncid278.md?fldfcqlwsw285#1">大纪元中国人权</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/nf6123.md?fldfcqlwsw285#1">起诉江泽民</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog1704_1.md?fldfcqlwsw285#1">百年红祸</a></p>
+<p><a href="https://github.com/cqlwsw285/djy/blob/master/gb/mh/mhtg.md#1">明慧网通告</a></p>
+<p><a target="_blank" href="https://github.com/cqlwsw285/ntdtv/blob/master/gb/prog422209_1.md?fldfcqlwsw285#1">追查中共人权迫害者</a></p>
 国内《宪法》<br>
 第35条　中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。<br>
 第36条　中华人民共和国公民有宗教信仰自由。<br>
 本平台为弱势群体发声，浏览器屏蔽，是在协助中共迫害人权。<br>
-即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/mh/mhtg.md?fldflpbpi2994#1">《明慧网通告》</a>收集,<br>
+即日起，浏览器企业参与对本平台屏蔽的证据可能被按<a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/mh/mhtg.md?fldfcqlwsw285#1">《明慧网通告》</a>收集,<br>
 或被发往各国商务部，作为该企业产品是否参与中共情报和间谍活动的依据。<br>
-希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/lpbpi2994/djy/blob/master/gb/rq.md?fldflpbpi2994#1">迫害人权者前车之鉴</a>
+希望各企业,遵守国内宪法,秉承道义良知,不要阻止弱势群体的声音。<a target="_blank" href="https://github.com/cqlwsw285/djy/blob/master/gb/rq.md?fldfcqlwsw285#1">迫害人权者前车之鉴</a>
 <hr>
 <h1><p><strong>数点梅花天地春</strong></p></h1>
 <img src="https://gitlab.com/szzdlab/www/raw/master/t/01.jpg">
