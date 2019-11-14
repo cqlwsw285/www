@@ -6,8 +6,8 @@
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
+<table><tr><td width="642">
 <img src="https://raw.githubusercontent.com/ssuoew2898/www/master/t/fq1.jpg"><br>
-<table><tr><td width="640">
 <p><strong><a href="https://github.com/ssuoew2898/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/ssuoew2898/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，本平台固定短网址 https://git.io/*8</strong></p>
 <p><strong>可向 fr45tr@gmail.com 索取推广网址，推荐用Chrome浏览器打开本平台</strong></p>
 
